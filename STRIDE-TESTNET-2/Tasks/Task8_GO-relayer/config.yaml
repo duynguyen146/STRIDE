@@ -9,7 +9,7 @@ chains:
         value:
             key: gaia-rly
             chain-id: GAIA
-            rpc-addr: http://185.249.225.35:26657
+            rpc-addr: http://localhost:26657
             account-prefix: cosmos
             keyring-backend: test
             gas-adjustment: 1.2
@@ -35,7 +35,7 @@ chains:
             sign-mode: direct
             memo-prefix: gacon#2074
 paths:
-    STRIDE-GAIA:
+    STRIDE-GAIA-TESTNET:
         src:
             chain-id: GAIA
             client-id: 07-tendermint-0
