@@ -3,8 +3,7 @@
   "value": {
     "key": "default",
     "chain-id": "STRIDE-TESTNET-2",
-    "rpc-addr": "http://localhost:16657",
-    "grpc_addr": "http://localhost:16090",
+    "rpc-addr": "http://localhost:16657",    
     "account-prefix": "stride",
     "keyring-backend": "test",
     "clock_drift": "20s",
