@@ -1,7 +1,7 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "default",
+    "key": "gaia-rly",
     "chain-id": "GAIA",
     "rpc-addr": "http://localhost:26657",    
     "account-prefix": "cosmos",
