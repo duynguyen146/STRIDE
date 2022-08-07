@@ -3,8 +3,7 @@
   "value": {
     "key": "default",
     "chain-id": "GAIA",
-    "rpc-addr": "http://localhost:26657",
-    "grpc_addr": "http://localhost:26090",
+    "rpc-addr": "http://localhost:26657",    
     "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
