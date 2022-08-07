@@ -1,7 +1,7 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "default",
+    "key": "stride-rly",
     "chain-id": "STRIDE-TESTNET-2",
     "rpc-addr": "http://localhost:16657",    
     "account-prefix": "stride",
